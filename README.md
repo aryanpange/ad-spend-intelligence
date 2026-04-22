@@ -3,7 +3,7 @@
 A production-style analytics dashboard built in Python/Streamlit for 
 multi-channel digital advertising intelligence.
 
-**Live demo → [adintel.streamlit.app]([https://your-url.streamlit.app](https://ad-spend-intelligence.streamlit.app/))**
+**Live demo → [adintel.streamlit.app](https://your-url.streamlit.app](https://ad-spend-intelligence.streamlit.app/)**
 
 ## What it does
 - **Executive Overview** — KPI scorecards, revenue/spend trends, blended ROAS
