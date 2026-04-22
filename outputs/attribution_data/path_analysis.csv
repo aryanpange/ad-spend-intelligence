@@ -1,0 +1,26 @@
+path,Total,Conversions,Avg_Revenue,CVR_Pct
+Affiliate → Affiliate,66,29,786.0,43.9
+Affiliate → Google Search,88,38,765.0,43.2
+Affiliate → Meta Ads,41,14,575.0,34.1
+Affiliate → Programmatic Display,25,8,630.0,32.0
+Affiliate → YouTube,21,6,436.0,28.6
+Google Search → Affiliate,113,56,893.0,49.6
+Google Search → Google Search,149,66,795.0,44.3
+Google Search → Meta Ads,68,18,494.0,26.5
+Google Search → Programmatic Display,19,6,543.0,31.6
+Google Search → YouTube,33,10,560.0,30.3
+Meta Ads → Affiliate,153,69,750.0,45.1
+Meta Ads → Google Search,189,83,783.0,43.9
+Meta Ads → Meta Ads,103,32,571.0,31.1
+Meta Ads → Programmatic Display,38,18,904.0,47.4
+Meta Ads → YouTube,66,20,581.0,30.3
+Programmatic Display → Affiliate,166,73,776.0,44.0
+Programmatic Display → Google Search,188,85,773.0,45.2
+Programmatic Display → Meta Ads,120,46,705.0,38.3
+Programmatic Display → Programmatic Display,54,19,628.0,35.2
+Programmatic Display → YouTube,69,24,591.0,34.8
+YouTube → Affiliate,199,87,783.0,43.7
+YouTube → Google Search,236,112,813.0,47.5
+YouTube → Meta Ads,118,35,529.0,29.7
+YouTube → Programmatic Display,51,19,656.0,37.3
+YouTube → YouTube,75,25,576.0,33.3

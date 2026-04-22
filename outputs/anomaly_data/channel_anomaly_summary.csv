@@ -1,0 +1,6 @@
+channel,total_alerts,critical_alerts,high_alerts,total_impact,avg_impact,most_common_type
+Affiliate,17,1,9,322313.0,18960.0,Budget Crash
+Google Search,17,8,5,102718.0,6042.0,Zero Traffic / Account Issue
+Meta Ads,17,1,11,107301.0,6312.0,Budget Spike
+Programmatic Display,17,4,9,53715.0,3160.0,Budget Spike
+YouTube,17,3,8,26627.0,1566.0,Unusual Pattern — Monitor

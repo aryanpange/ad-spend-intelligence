@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-04-13 17:56",
+  "total_rows": 2740,
+  "date_range_start": "2023-01-01",
+  "date_range_end": "2024-07-01",
+  "channels": [
+    "Google Search",
+    "Meta Ads",
+    "Programmatic Display",
+    "YouTube",
+    "Affiliate"
+  ],
+  "total_spend_inr": 9264715.64,
+  "total_revenue_inr": 142959079.23,
+  "total_conversions": 85746,
+  "anomalies_injected": 64,
+  "anomaly_rate_pct": 2.34
+}

@@ -1,0 +1,5 @@
+check,status,count
+Clicks > impressions,PASS,0
+Conversions > clicks,PASS,0
+Negative spend,PASS,0
+Negative revenue,PASS,0

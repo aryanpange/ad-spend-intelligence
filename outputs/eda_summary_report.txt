@@ -1,0 +1,24 @@
+
+PORTFOLIO SUMMARY (use this in your README and interviews)
+----------------------------------------------------------
+Dataset:        2,740 rows | 5 channels | 18 months
+Total spend:    Rs.9,264,716
+Total revenue:  Rs.142,959,079
+Blended ROAS:   15.43x
+
+Key findings:
+  1. Affiliate delivers the highest ROAS — most efficient channel.
+  2. YouTube shows the lowest average ROAS — review allocation.
+  3. 18 CPC spike events detected across all channels.
+  4. November is the highest ROAS month (Diwali effect) — 
+     brands should concentrate budget here.
+  5. Weekend ROAS is consistently lower than weekday for most channels.
+
+Charts produced: 7
+Output files:    channel_efficiency_summary.csv
+                 budget_pacing_table.csv
+                 cpc_spike_log.csv
+                 data_quality_log.csv
+                 eda_charts/ (7 PNG/HTML files)
+
+Next step: Phase 3 — Attribution Modeling

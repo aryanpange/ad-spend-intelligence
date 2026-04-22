@@ -1,0 +1,65 @@
+date,channel,anomaly_type,original_spend,actual_spend,multiplier
+2023-01-01,Meta Ads,Zero Traffic,2915.32,0.0,0.0
+2023-01-03,Meta Ads,Budget Spike,2896.25,10783.31,3.72
+2023-01-05,Google Search,Budget Spike,4634.36,15136.38,3.27
+2023-01-07,Programmatic Display,Budget Spike,2072.44,5496.54,2.65
+2023-01-12,Affiliate,Zero Traffic,948.02,0.0,0.0
+2023-01-27,Meta Ads,Budget Spike,4563.57,13691.84,3.0
+2023-02-25,Affiliate,Budget Crash,1362.19,153.14,0.11
+2023-03-15,Programmatic Display,Budget Spike,2583.56,6488.61,2.51
+2023-03-28,Google Search,Zero Traffic,4449.49,0.0,0.0
+2023-03-28,Affiliate,Budget Crash,2063.02,193.92,0.09
+2023-03-29,Google Search,Budget Spike,5063.11,14934.66,2.95
+2023-04-01,Google Search,Budget Spike,5332.14,16185.93,3.04
+2023-04-04,Google Search,Budget Spike,4831.47,17364.38,3.59
+2023-04-12,Google Search,Zero Traffic,5443.19,0.0,0.0
+2023-04-15,Programmatic Display,Zero Traffic,1594.0,0.0,0.0
+2023-04-27,Programmatic Display,Budget Spike,3519.17,13393.96,3.81
+2023-04-29,Programmatic Display,Zero Traffic,2854.9,0.0,0.0
+2023-05-14,Meta Ads,Budget Spike,3562.23,12710.77,3.57
+2023-06-14,Affiliate,Budget Crash,1629.69,317.06,0.19
+2023-06-20,Meta Ads,Budget Crash,5065.41,832.16,0.16
+2023-06-21,YouTube,Budget Crash,3166.15,280.66,0.09
+2023-07-11,Google Search,Zero Traffic,4694.68,0.0,0.0
+2023-07-24,Meta Ads,Budget Spike,4899.68,16057.78,3.28
+2023-07-29,Google Search,Budget Spike,4125.85,10839.22,2.63
+2023-08-05,Programmatic Display,Budget Spike,1776.89,5076.89,2.86
+2023-08-12,Google Search,Zero Traffic,5614.52,0.0,0.0
+2023-08-20,YouTube,Budget Spike,1392.18,4404.3,3.16
+2023-08-31,YouTube,Budget Spike,2043.62,5477.39,2.68
+2023-09-05,Meta Ads,Budget Spike,7105.35,25738.11,3.62
+2023-09-09,Affiliate,Budget Spike,1448.95,5446.33,3.76
+2023-09-22,Google Search,Zero Traffic,7633.94,0.0,0.0
+2023-09-28,YouTube,Budget Crash,2327.61,193.24,0.08
+2023-10-03,YouTube,Zero Traffic,2426.36,0.0,0.0
+2023-10-15,Programmatic Display,Budget Crash,3132.99,483.97,0.15
+2023-10-28,Programmatic Display,Budget Spike,2501.5,6288.46,2.51
+2023-10-30,YouTube,Zero Traffic,3991.25,0.0,0.0
+2023-11-04,Google Search,Zero Traffic,6755.18,0.0,0.0
+2023-11-08,YouTube,Budget Spike,2585.57,6591.81,2.55
+2023-11-13,Affiliate,Budget Spike,4008.06,11033.28,2.75
+2023-12-01,Google Search,Zero Traffic,7883.21,0.0,0.0
+2023-12-02,Google Search,Budget Spike,7773.25,30359.73,3.91
+2023-12-07,Affiliate,Budget Spike,2209.82,6337.62,2.87
+2023-12-19,Programmatic Display,Budget Crash,3422.91,311.27,0.09
+2023-12-22,Programmatic Display,Zero Traffic,4618.13,0.0,0.0
+2023-12-23,Google Search,Zero Traffic,8969.37,0.0,0.0
+2023-12-30,Affiliate,Budget Crash,1843.99,139.16,0.08
+2024-01-12,Meta Ads,Budget Crash,2403.46,128.16,0.05
+2024-01-15,Meta Ads,Budget Crash,4364.86,747.99,0.17
+2024-02-05,Google Search,Budget Crash,4969.49,689.52,0.14
+2024-02-20,YouTube,Budget Crash,1248.84,191.54,0.15
+2024-03-02,Affiliate,Budget Crash,1242.76,177.57,0.14
+2024-03-06,Meta Ads,Budget Spike,4823.06,16519.31,3.43
+2024-03-22,Programmatic Display,Budget Spike,2427.03,7100.94,2.93
+2024-04-04,Meta Ads,Budget Spike,4491.95,16846.65,3.75
+2024-04-05,YouTube,Zero Traffic,3387.91,0.0,0.0
+2024-04-16,Meta Ads,Budget Crash,4963.75,549.87,0.11
+2024-04-20,YouTube,Budget Spike,1174.79,3682.58,3.13
+2024-04-27,Programmatic Display,Budget Spike,2754.9,7782.66,2.83
+2024-05-04,YouTube,Budget Spike,2100.42,7518.95,3.58
+2024-05-05,Programmatic Display,Budget Spike,1404.25,4356.63,3.1
+2024-05-10,Programmatic Display,Budget Spike,3500.73,13948.94,3.98
+2024-05-25,Meta Ads,Budget Spike,4718.35,18403.57,3.9
+2024-06-06,YouTube,Budget Crash,2196.55,238.42,0.11
+2024-06-22,Affiliate,Budget Crash,1500.56,267.03,0.18
